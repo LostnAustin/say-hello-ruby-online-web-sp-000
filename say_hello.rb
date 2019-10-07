@@ -1,6 +1,5 @@
 
 
 def say_hello(name, default="Ruby Programmer")
-phrase =  "Hello"
-puts "phrase ${name}!"
+  puts "Hello ${name}!"
 end
