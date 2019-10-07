@@ -1,5 +1,6 @@
 
 
 def say_hello(name, default="Ruby Programmer")
-  puts "Hello ${name}!"
+phrase =  "Hello"
+puts "phrase ${name}!"
 end
